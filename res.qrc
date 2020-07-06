@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img.vsh</file>
+        <file>custom.fsh</file>
+    </qresource>
+</RCC>
